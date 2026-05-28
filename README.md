@@ -135,7 +135,7 @@ Siga o roteiro abaixo na ordem indicada para reproduzir completamente a análise
 ### Passo 1 — Clonar ou baixar o repositório
 
 ```bash
-git clone https://github.com/<seu-usuario>/<seu-repositorio>.git
+git clone https://github.com/JoseMarson/Global_YouTube_Statistics_CD2.git
 cd <seu-repositorio>
 ```
 
